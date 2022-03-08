@@ -13,7 +13,7 @@
   ## 📘 Description of Project:
 
   
-  Project was to create a node application that prompts for information about your project, and creates a README.md with the information provided. I built this project to be able to have my README.md files for every project easily created. This application allows me to have much more time to complete the actual coding, instead of having to spend time on building a README.md. This project has helped me learn how to succesfully write files with fs.writefile, and has given much insight on node itself! Was a great project that will be used many, many times in the future!
+  Project was to create a back end e-commerce application so products can be stored in a central database and be connected with tags and categories. Products, categories, and tags can all be updated, deleted, as well as created. Would be a very good application for any business that has many products they would like to get organized with specific categories.
   
   
   
